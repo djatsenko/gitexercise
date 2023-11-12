@@ -1,2 +1,1 @@
-# gitexercise
-Ajax/Javascript task
+commit1
